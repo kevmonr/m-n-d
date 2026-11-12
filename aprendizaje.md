@@ -1,2 +1,1 @@
-como perro por su huesojaja
-no es ciertomijo
+ echo, clone/remote repo, add, commit, push and log
